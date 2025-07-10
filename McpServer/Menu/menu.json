@@ -1,0 +1,74 @@
+{
+  "menu": {
+    "Entradas": [
+      {
+        "nome": "Bruschetta de Tomate",
+        "ingredientes": ["pão italiano", "tomate", "alho", "manjericão", "azeite de oliva", "sal"]
+      },
+      {
+        "nome": "Ceviche de Tilápia",
+        "ingredientes": ["tilápia", "limão", "cebola roxa", "coentro", "pimenta dedo-de-moça", "sal"]
+      },
+      {
+        "nome": "Sopa Fria de Pepino e Hortelã",
+        "ingredientes": ["pepino", "iogurte natural", "hortelã", "limão", "alho", "sal"]
+      },
+      {
+        "nome": "Bolinho de Arroz Integral Vegano",
+        "ingredientes": ["arroz integral", "cenoura", "cebola", "farinha de grão-de-bico", "ervas", "óleo vegetal"]
+      }
+    ],
+    "Principais": [
+      {
+        "nome": "Filé Mignon ao Molho Madeira",
+        "ingredientes": ["filé mignon", "vinho madeira", "cebola", "caldo de carne", "manteiga", "farinha de trigo"]
+      },
+      {
+        "nome": "Moqueca de Banana-da-Terra (vegana)",
+        "ingredientes": ["banana-da-terra", "leite de coco", "pimentão", "tomate", "cebola", "azeite de dendê", "coentro"]
+      },
+      {
+        "nome": "Lasanha de Berinjela (sem glúten)",
+        "ingredientes": ["berinjela", "molho de tomate", "ricota", "parmesão", "manjericão"]
+      },
+      {
+        "nome": "Frango Grelhado com Quinoa e Legumes",
+        "ingredientes": ["peito de frango", "quinoa", "abobrinha", "cenoura", "brócolis", "azeite", "sal"]
+      },
+      {
+        "nome": "Risoto de Cogumelos",
+        "ingredientes": ["arroz arbório", "cogumelo paris", "shitake", "cebola", "caldo de legumes", "parmesão", "manteiga"]
+      },
+      {
+        "nome": "Tábua de Sushi (8 peças)",
+        "ingredientes": ["arroz para sushi", "alga nori", "salmão", "pepino", "abacate", "gengibre", "shoyu"]
+      },
+      {
+        "nome": "Espaguete ao Pesto",
+        "ingredientes": ["espaguete", "manjericão", "castanha-de-caju", "azeite de oliva", "alho", "parmesão"]
+      },
+      {
+        "nome": "Tofu Grelhado com Arroz de Coco",
+        "ingredientes": ["tofu", "molho shoyu", "gengibre", "arroz", "leite de coco", "cebolinha"]
+      }
+    ],
+    "Sobremesas": [
+      {
+        "nome": "Mousse de Maracujá",
+        "ingredientes": ["polpa de maracujá", "leite condensado", "creme de leite"]
+      },
+      {
+        "nome": "Brownie Sem Glúten com Nozes",
+        "ingredientes": ["cacau em pó", "ovos", "açúcar mascavo", "manteiga", "farinha de amêndoas", "nozes"]
+      },
+      {
+        "nome": "Salada de Frutas Frescas",
+        "ingredientes": ["maçã", "banana", "mamão", "melão", "laranja", "hortelã"]
+      },
+      {
+        "nome": "Pudim de Chia com Leite de Coco (vegano)",
+        "ingredientes": ["sementes de chia", "leite de coco", "baunilha", "melado de cana"]
+      }
+    ]
+  }
+}
