@@ -62,9 +62,9 @@ npx @modelcontextprotocol/inspector dotnet run
 
 ```
 mcp-demo-tech-talk/
-├── DemoService/           # App Consultor de Restaurantes - APIs REST (C#)
-├── McpServer/             # MCP Server - Bridge entre chat e sistema de restaurantes
-├── McpClient/             # Chat Consultor do App de Comida - Interface + GPT 3.5 Turbo
+├── DemoService/                          # App Consultor de Restaurantes - APIs REST (C#)
+├── McpFoodServer/McpFoodServer.Api       # MCP Server - Bridge entre chat e sistema de restaurantes
+├── McpClient/                            # Chat Consultor do App de Comida - Interface + GPT 3.5 Turbo
 ├── .gitignore
 └── README.md
 ```
