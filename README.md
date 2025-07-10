@@ -13,7 +13,7 @@ Este repositório contém uma demonstração do Model Context Protocol (MCP), ap
 - **C#**: Linguagem principal para o DemoService
 - **.NET**: Framework para desenvolvimento do sistema de restaurantes
 - **REST API**: Comunicação entre MCP Server e App Consultor de Restaurantes
-- **Node.js/TypeScript**: Para implementação do MCP Server e Chat Consultor
+- **Node.js/TypeScript**: Para a execução do Inspector para testes com o MCP Server
 
 ## 📋 Pré-requisitos
 
