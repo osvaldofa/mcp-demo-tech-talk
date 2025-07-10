@@ -1,0 +1,83 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio specific
+.vs/
+.vscode/
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# Auto-generated files
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Dependency caches
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.pdb
+*.mdb
+
+# Publish output
+publish/
+*.publishsettings
+
+# Azure Web App publish settings
+*.azurePubxml
+*.azurePubxml.user
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# StyleCop
+StyleCopReport.xml
+
+# File-based secrets
+secrets.json
+
+# DotNet CLI
+.dotnet/
+
+# Local history for IDEs
+.history/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Coverage and test results
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+*.cobertura.xml
+
+# Other
+*.DS_Store
+Thumbs.db
