@@ -39,16 +39,17 @@ cd DemoService
 dotnet restore
 dotnet run
 
-# 2. Em outro terminal, execute o MCP Server
-cd ../McpServer
-npm install
-npm start
-
-# 3. Em outro terminal, execute o Chat Consultor (McpClient)
+# 2. Em outro terminal, execute o Chat Consultor (McpClient)
 cd ../McpClient
-npm install
 # Configure sua chave OpenAI no arquivo de configuração
-npm start
+dotnet run
+
+# 3. CASO QUEIRA TESTAR O MCP SERVER SEPARADAMENTE - Em outro terminal, execute o MCP Server
+cd ../McpServer
+npm install @modelcontextprotocol/inspector
+npx @modelcontextprotocol/inspector dotnet run
+
+
 ```
 
 ## ⚙️ Configuração
